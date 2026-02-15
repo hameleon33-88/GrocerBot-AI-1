@@ -1,0 +1,4 @@
+task: "Prepare groceries"
+mode: "sequential"
+validation: true
+safety_checks: true
